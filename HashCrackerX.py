@@ -93,7 +93,7 @@ class HashCracker:
                 break
             self.queue.task_done()
 
-    def crack(self, num_threads=1000):
+    def crack(self, num_threads=50):
         words = self.load_wordlist()
         if not words:
             return
