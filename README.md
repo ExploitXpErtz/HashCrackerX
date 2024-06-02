@@ -5,9 +5,6 @@
 ## Introduction:
 Fast, Advanced and Simple Hash Cracker powered by Python's Standard Libraries and Uses Parallel Processing, Auto-Detection Functions to improve Hash Cracking Processes.
 
-**Disclaimer:**
-Any actions and/or activities related to HashCrackerX are solely your responsibility. Misuse of this tool can result in criminal charges brought against the persons in question. The contributors will not be held responsible for any criminal charges brought against individuals misusing this toolkit to break the law. This tool is made for educational purposes only. Do not attempt to violate the law with anything contained here.
-
 ## Features:
 - **Automatic Hash Type Detection:** Automatically detects the hash type for well-known hash types.
 - **High-Speed Performance:** Much faster than other hash cracking tools on the internet.
@@ -41,6 +38,10 @@ HashCrackerX is designed for educational and ethical hacking purposes. It is int
 - python4 HashCrackerX.py hash_type hash -wu http://wordlist.com/file.txt
 ### Hash Cracking Using auto hash detection
 - python4 HashCrackerX.py hash_type hash -w /usr/share/wordlists/rockyou.txt
+
+
+**Disclaimer:**
+Any actions and/or activities related to HashCrackerX are solely your responsibility. Misuse of this tool can result in criminal charges brought against the persons in question. The contributors will not be held responsible for any criminal charges brought against individuals misusing this toolkit to break the law. This tool is made for educational purposes only. Do not attempt to violate the law with anything contained here.
 
 
 
