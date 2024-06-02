@@ -3,7 +3,7 @@
 ![logo](https://github.com/ExploitXpErtz/HashCrackerX/assets/167577471/f923dff5-c3bc-4e13-a6fe-95b9972ca4d9)
 
 ## Introduction:
-Fast, Advanced and Simple Hash Cracker powered by Python's Standard Libraries and Uses Parallel Processing, Auto-Detection Functions to improve Hash Cracking Processes.
+Fast, Advanced and Simple Hash Cracker powered by Python's Standard Libraries, Uses Parallel Processing, Auto-Detection Functions to improve Hash Cracking Processes.
 
 ## Features:
 - **Automatic Hash Type Detection:** Automatically detects the hash type for well-known hash types.
