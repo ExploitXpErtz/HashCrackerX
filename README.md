@@ -23,25 +23,23 @@ HackCrackerX is designed for educational and ethical hacking purposes. It is int
     git clone https://github.com/yourusername/HackCrackerX.git
     cd HackCrackerX
     ```
-
-2. **Create a virtual environment (optional but recommended):**
-    ```bash
-    python3 -m venv venv
-    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-    ```
-
-3. **Install the required dependencies:**
+    
+2. **Install the required dependencies:**
     ```bash
     pip install -r requirements.txt
     ```
 
-4. **Run the tool:**
+3. **Run the tool:**
     ```bash
     python hackcrackerx.py
     ```
 
 ## Usage:
 To use HackCrackerX, follow the instructions provided in the tool's documentation or help section. Detailed usage examples and command options are available to help you get started.
+
+
+
+
 
 ## Contribution:
 Contributions to HackCrackerX are welcome! If you have ideas for improvements or have found bugs, please open an issue or submit a pull request.
