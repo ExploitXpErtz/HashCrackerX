@@ -64,7 +64,7 @@ class HashCracker:
         try:
             if self.wordlist.startswith('http://') or self.wordlist.startswith('https://'):
                 response = urlopen(self.wordlist)
-                return [line.decode('utf-8').strip() for line in response]
+                return [line.decode('ISO-8859-1').strip() for line in response]
             else:
                 with open(self.wordlist, 'r', errors='ignore') as file:
                     return [line.strip() for line in file if not self.found.is_set()]
@@ -93,7 +93,7 @@ class HashCracker:
                 break
             self.queue.task_done()
 
-    def crack(self, num_threads=50):
+    def crack(self, num_threads=1000):
         words = self.load_wordlist()
         if not words:
             return
@@ -132,17 +132,6 @@ def detect_hash_type(hash_value):
         return None
 
 if __name__ == "__main__":
-    def display_logo():
-        logo = """
-        *************************************************
-        *                                               *
-        *               HashCrackerX                    *
-        *                                               *
-        *************************************************
-        \t\t\tFollow ExploitXpErtz
-        """
-        print(logo)
-    display_logo()
     import argparse
 
     parser = argparse.ArgumentParser(description='Multi-hash cracker')
@@ -185,4 +174,3 @@ if __name__ == "__main__":
     else:
         hash_cracker = HashCracker(hash_type, hash_to_crack, wordlist_path, verbose=verbose, custom_hash=custom_hash, silent=silent, salt=salt, output_file=output_file, exit_on_found=exit_on_found)
         hash_cracker.crack()
-
