@@ -2,12 +2,16 @@
 
 ![logo](https://github.com/ExploitXpErtz/HashCrackerX/assets/167577471/f923dff5-c3bc-4e13-a6fe-95b9972ca4d9)
 
+## Introduction:
+Fast, Advanced and Simple Hash Cracker powered by Python's Standard Libraries and Uses Parallel Processing, Auto-Detection Functions to improve Hash Cracking Processes.
+
 **Disclaimer:**
 Any actions and/or activities related to HashCrackerX are solely your responsibility. Misuse of this tool can result in criminal charges brought against the persons in question. The contributors will not be held responsible for any criminal charges brought against individuals misusing this toolkit to break the law. This tool is made for educational purposes only. Do not attempt to violate the law with anything contained here.
 
 ## Features:
 - **Automatic Hash Type Detection:** Automatically detects the hash type for well-known hash types.
 - **High-Speed Performance:** Much faster than other hash cracking tools on the internet.
+- **Multi-Threading:** Utilizes Parallel Processing to Boost-Up the Cracking Process.
 - **Online Wordlist Support:** Can use online Wordlists for Hash Cracking.
 - **Output Support:** Save output of Cracked hashes.
 - **Verbosity Control:** Adjust the level of detail in the output for better insights.
