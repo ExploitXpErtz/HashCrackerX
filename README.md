@@ -23,13 +23,7 @@ HashCrackerX is designed for educational and ethical hacking purposes. It is int
     git clone https://github.com/ExploitXpErtz/HashCrackerX.git
     cd HashCrackerX
     ```
-    
-2. **Install the required dependencies:**
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. **Run the tool:**
+2. **Run the tool:**
     ```bash
     python3 HashCrackerX.py
     ```
