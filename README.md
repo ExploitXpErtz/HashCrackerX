@@ -20,7 +20,7 @@ HashCrackerX is designed for educational and ethical hacking purposes. It is int
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/HashCrackerX.git
+    git clone https://github.com/ExploitXpErtz/HashCrackerX.git
     cd HashCrackerX
     ```
     
