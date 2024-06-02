@@ -1,5 +1,7 @@
 # HashCrackerX by ExploitXpErtz
 
+![logo](https://github.com/ExploitXpErtz/HashCrackerX/assets/167577471/f923dff5-c3bc-4e13-a6fe-95b9972ca4d9)
+
 **Disclaimer:**
 Any actions and/or activities related to HashCrackerX are solely your responsibility. Misuse of this tool can result in criminal charges brought against the persons in question. The contributors will not be held responsible for any criminal charges brought against individuals misusing this toolkit to break the law. This tool is made for educational purposes only. Do not attempt to violate the law with anything contained here.
 
