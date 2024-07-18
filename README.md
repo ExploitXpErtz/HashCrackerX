@@ -39,6 +39,13 @@ HashCrackerX is designed for educational and ethical hacking purposes. It is int
 ### Hash Cracking Using auto hash detection
 - python4 HashCrackerX.py hash_type hash -w /usr/share/wordlists/rockyou.txt
 
+## Be a Part of Our Community
+- **LinkedIn Community:** https://www.linkedin.com/groups/9855336/
+- **LinkedIn Page:** https://www.linkedin.com/company/102537462/
+- **Whatsapp Community:** https://chat.whatsapp.com/FCIy96YOqVX2qNYxMOuVDz
+- **Facebook:** https://www.facebook.com/profile.php?id=61559010484365
+- **Youtube:** https://www.youtube.com/@0xExploitXpErtz
+
 
 **Disclaimer:**
 Any actions and/or activities related to HashCrackerX are solely your responsibility. Misuse of this tool can result in criminal charges brought against the persons in question. The contributors will not be held responsible for any criminal charges brought against individuals misusing this toolkit to break the law. This tool is made for educational purposes only. Do not attempt to violate the law with anything contained here.
